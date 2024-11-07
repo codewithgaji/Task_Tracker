@@ -156,7 +156,7 @@ if __name__ == "__main__":
             json.dump([], file) # This is to load the file as a list
 
     except FileExistsError: # Error handling
-        print("This file eists already")
+        print("File created")
         pass
 
     main()
