@@ -1,0 +1,9 @@
+# created by virtualenv automatically
+# Ignore everything by default
+*
+
+# Except the following files and directories
+!.gitignore
+!/tasks.json
+!/Task_Tracker.py
+
