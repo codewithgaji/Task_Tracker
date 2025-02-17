@@ -20,7 +20,7 @@ You can test the project locally by running the script Task_Tracker.py, or inter
 ## Testing via Google Colab
 To test this project directly in a Google Colab environment, click the link below to launch the Colab notebook:
 
-Test the Task Tracker on Google Colab here: https://colab.research.google.com/drive/1SDeTmUGiHx5IfqRkkkf5EWXjLycZGUvH?usp=sharing
+Test the Task Tracker on Google Colab [here](https://colab.research.google.com/drive/1SDeTmUGiHx5IfqRkkkf5EWXjLycZGUvH?usp=sharing)
 
 Simply run the cells in the Colab notebook to interact with the Task Tracker, and see how the system handles tasks.
 
