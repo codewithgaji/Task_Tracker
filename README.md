@@ -46,10 +46,3 @@ Mark tasks as complete.
 ## Contributing
 Contributions are welcome! If you'd like to contribute to the project, feel free to open an issue or submit a pull request.
 
-Steps to contribute:
-Fork the repository.
-Create a new branch (git checkout -b feature-branch).
-Make your changes.
-Commit your changes (git commit -am 'Add new feature').
-Push to your branch (git push origin feature-branch).
-Open a pull request.
