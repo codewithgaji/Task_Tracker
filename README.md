@@ -14,7 +14,8 @@ Before you can run this project, you'll need to have the following installed on 
 - Python 3.x
 - `pip` (Python package installer)
 
-
+## Usage
+You can test the project locally by running the script Task_Tracker.py, or interact with it via a web interface if the project has been deployed as a web app (check the "Deploy as a Service" section below).
 
 ## Testing via Google Colab
 To test this project directly in a Google Colab environment, click the link below to launch the Colab notebook:
