@@ -51,6 +51,5 @@ Create a new branch (git checkout -b feature-branch).
 Make your changes.
 Commit your changes (git commit -am 'Add new feature').
 Push to your branch (git push origin feature-branch).
-Open a pull request.
 
 
